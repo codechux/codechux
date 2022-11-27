@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/codechux?logo=github&style=for-the-
 
 ### Badges
 
-<p align="left"><img src="https://drive.google.com/file/d/1rVe8J1PR5Sja5pcjKvGI5SGNPeSDs2JU/view?usp=share_link" width="32" height="32" /> <img src="https://drive.google.com/file/d/1n5V8qBpeFGOvjqnFN7E7WvOZ5acIkkWd/view?usp=share_link" width="32" height="32" /><img src="https://drive.google.com/file/d/16ytY00V2404YfLZRDPqVAFa6VccT9Fbm/view?usp=share_link" width="32" height="32" /></p>
+<p align="left"><img src="https://drive.google.com/file/d/1rVe8J1PR5Sja5pcjKvGI5SGNPeSDs2JU/view?usp=share_link" width="32" height="32" /> <img src="https://drive.google.com/file/d/1n5V8qBpeFGOvjqnFN7E7WvOZ5acIkkWd/view?usp=share_link" width="32" height="32" /><img src="https://drive.google.com/file/d/16ytY00V2404YfLZRDPqVAFa6VccT9Fbm/view" width="32" height="32" /></p>
 
 <b>My GitHub Stats</b>
 

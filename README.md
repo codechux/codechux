@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chukwuka Erasmus Oguh and I'm a Frontend Developer, from Lagos, Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Chukwuka Erasmus Oguh and I'm from Lagos, Nigeria</h2>
 
 ###
 
